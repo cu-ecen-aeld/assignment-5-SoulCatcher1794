@@ -4,3 +4,6 @@
 [submodule "base_external/2024.02.x"]
 	path = base_external/2024.02.x
 	url = https://gitlab.com/buildroot.org/buildroot/
+[submodule "2024.02.x"]
+	path = 2024.02.x
+	url = https://gitlab.com/buildroot.org/buildroot/
