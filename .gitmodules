@@ -1,16 +1,6 @@
 [submodule "assignment-autotest"]
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-5013/assignment-autotest
-[submodule "base_external/2024.02.x"]
-	path = base_external/2024.02.x
-	url = https://gitlab.com/buildroot.org/buildroot/
-[submodule "2024.02.x"]
-	path = 2024.02.x
-	url = https://gitlab.com/buildroot.org/buildroot/
-[submodule "base_external/buildroot"]
-	path = base_external/buildroot
-	url = https://gitlab.com/buildroot.org/buildroot/
-	branch = 2024.02.x
 [submodule "buildroot"]
 	path = buildroot
 	url = https://gitlab.com/buildroot.org/buildroot/
