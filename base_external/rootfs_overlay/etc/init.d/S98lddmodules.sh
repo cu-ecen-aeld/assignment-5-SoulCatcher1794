@@ -13,8 +13,8 @@ modprobe hello
 stop)
 echo "Removing user modules"
 rmmod hello
-module_unload faulty
-scull_unload
+module_unload.sh faulty
+scull_unload.sh
 ;;
 *)
 echo "Usage: $0 {start|stop}"
